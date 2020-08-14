@@ -3,8 +3,21 @@ import PropTypes from "prop-types"
 import React from "react"
 import logo from "../img/skyprint.svg"
 
-
-export default ({ children }) => <div>
-    <div><img src={ logo }/><h1>girlhours.info</h1></div>
+let divstyle = {
+    width: "1em",
+    "padding-right": "0.2em"
+}
+let grandstyle = {
+    "font-family": "Cabin",
+    width: "100%"
+}
+export default ({ children }) => <div style={grandstyle}>
+    <link href="https://fonts.googleapis.com/css?family=Cabin&display=swap" rel="stylesheet"/> 
+    <div>
+        <h1>
+            <img src={logo} style={divstyle}/>
+            girlhours.info
+        </h1>
+    </div>
     {children}
 </div>
