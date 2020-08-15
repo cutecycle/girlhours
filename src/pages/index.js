@@ -19,6 +19,7 @@ export default () => <Header>
             <li>necrobarista</li>
 <li>resonance of fate</li>
 <li>trails of cold steel</li>
+<li>disgaea 1 complete</li>
 
         </ul>
     </div>
