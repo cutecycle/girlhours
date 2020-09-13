@@ -15,11 +15,10 @@ export default () => <Header>
         <h2>now playing</h2>
         <ul>
 
-            <li>final fantasy v</li>
-            <li>necrobarista</li>
-<li>resonance of fate</li>
+            <li>world of final fantasy</li>
+            <li>tony hawk 1+2</li>
 <li>trails of cold steel</li>
-<li>disgaea 1 complete</li>
+
 
         </ul>
     </div>
