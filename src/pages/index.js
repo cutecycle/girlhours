@@ -8,16 +8,16 @@ export default () => <Header>
         <p><a href="https://github.com/cutecycle">cutecycle</a></p>
         <h2>in progress</h2>
         <ul>
-            <li>sailor dungeon (game: c++ + rapidjson + unreal 4 + jupyter)</li>
-            <li>girlhours.info (site: gatsby + netlify)</li>
+            <li>sailor dungeon (game: c++ + unreal 4 + mlpack + jupyter)</li>
+            <li>girlhours.info</li>
             <li>JLPT N1</li>
         </ul>
         <h2>now playing</h2>
         <ul>
 
-            <li>world of final fantasy</li>
+            <li>ys viii</li>
             <li>tony hawk 1+2</li>
-<li>trails of cold steel</li>
+<li>yakuza zero</li>
 
 
         </ul>
