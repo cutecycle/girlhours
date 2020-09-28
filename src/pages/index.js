@@ -15,7 +15,7 @@ export default () => <Header>
         <h2>now playing</h2>
         <ul>
 
-            <li>ys viii</li>
+            <li>13 sentinels</li>
             <li>tony hawk 1+2</li>
 <li>yakuza zero</li>
 
