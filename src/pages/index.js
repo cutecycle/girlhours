@@ -17,8 +17,8 @@ export default () => <Header>
 
             <li>atelier escha</li>
 <li>dragon quest builders 2</li>
-<li>trails of cold steel 3</li>
-<li>geneaology of holy war</li>
+<li>trails of cold steel</li>
+<li>etrian odyssey</li>
 <li>ys seven</li>
             <li>tony hawk 1+2</li>
 
