@@ -15,7 +15,7 @@ export default () => <Header>
         <h2>now playing</h2>
         <ul>
 
-            <li>atelier escha</li>
+            <li>atelier shallie</li>
 <li>dragon quest builders 2</li>
 <li>trails of cold steel</li>
 <li>etrian odyssey</li>
