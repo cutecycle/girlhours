@@ -12,7 +12,8 @@ let grandstyle = {
     width: "100%"
 }
 export default ({ children }) => <div style={grandstyle}>
-    <link href="https://fonts.googleapis.com/css?family=Cabin&display=swap" rel="stylesheet" rel="preload" as="style"/> 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap" rel="stylesheet
     <div>
         <h1>
             <img src={logo} style={divstyle}/>
