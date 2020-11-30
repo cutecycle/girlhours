@@ -15,11 +15,11 @@ export default () => <Header>
         <h2>now playing</h2>
         <ul>
 
-            <li>yakuza 7</li>
+            <li>atelier sophie</li>
 <li>dragon quest builders 2</li>
-<li>sakuna: of rice and ruin</li>
+<li>robotics;notes elite</li>
 <li>etrian odyssey</li>
-            <li>tony hawk 1+2</li>
+            <li>highway blossoms</li>
 
 
 
