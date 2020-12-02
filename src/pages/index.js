@@ -1,12 +1,8 @@
 import React from "react"
 import Header from "../components/layout"
-export default () => <div>
-
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap" rel="stylesheet"/>
+export default () => 
 
     <div>
-        <p>nina reynolds</p>
         <p>creator</p>
         <p><a href="https://twitter.com/_cutecycle">@_cutecycle</a></p>
         <p><a href="https://github.com/cutecycle">cutecycle</a></p>
@@ -25,4 +21,3 @@ export default () => <div>
             <li>highway blossoms</li>
         </ul>
     </div>
-</div>
