@@ -12,11 +12,11 @@ let grandstyle = {
     width: "100%"
 }
 export default ({ children }) => <div style={grandstyle}>
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap" rel="stylesheet
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap" rel="stylesheet" />
     <div>
         <h1>
-            <img src={logo} style={divstyle}/>
+            <img src={logo} style={divstyle} />
             nina reynolds
         </h1>
     </div>
