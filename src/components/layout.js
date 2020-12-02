@@ -17,7 +17,7 @@ export default ({ children }) => <div style={grandstyle}>
     <div>
         <h1>
             <img src={logo} style={divstyle}/>
-            girlhours.info
+            nina reynolds
         </h1>
     </div>
     {children}
