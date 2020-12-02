@@ -1,10 +1,10 @@
 import React from "react"
 import Header from "../components/layout"
 export default () => <div>
-    <Header>
+
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap" rel="stylesheet"/>
-    </Header>
+
     <div>
         <p>nina reynolds</p>
         <p>creator</p>
