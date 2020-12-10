@@ -37,7 +37,7 @@ export default () =>
             <ul>
                 <li>atelier sophie</li>
                 <li>dragon quest builders 2</li>
-                <li>robotics;notes elite</li>
+                <li>cyberpunk 2077</li>
                 <li>etrian odyssey</li>
                 <li>highway blossoms</li>
             </ul>
