@@ -35,11 +35,9 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>hades</li>
-                <li>dragon quest builders 2</li>
-                <li>puyo puyo tetris 2</li>
+                <li>cadence of hyrule</li>
+                <li>romancing saga 3</li>
                 <li>etrian odyssey</li>
-                <li>disgaea 5</li>
             </ul>
         </div>
     </html>
