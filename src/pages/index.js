@@ -37,7 +37,7 @@ export default () =>
             <ul>
                 <li>cadence of hyrule</li>
                 <li>romancing saga 3</li>
-                <li>etrian odyssey</li>
+                <li>shiren 5</li>
       <li>chocobo mystery dungeon</li>
             </ul>
         </div>
