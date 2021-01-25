@@ -36,7 +36,7 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>twials of mana</li>
-                <li>cadence of hyrule</li>
+                <li>atelier ryza 2</li>
                 <li>final fantasy 5</li>
       <li>etrian odyssey 5</li>
             </ul>
