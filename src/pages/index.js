@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>ys 9 </li>
-                <li>atelier ryza 2</li>
-                <li>final fantasy 5</li>
-      <li>kirby's dream land 3</li>
+                <li>persona 4 </li>
+                <li>valkyria</li>
+                <li>super mario 3d world</li>
+      <li>bravely default 2</li>
             </ul>
         </div>
     </html>
