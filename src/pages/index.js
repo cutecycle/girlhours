@@ -35,9 +35,9 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>nelke and the legendary alchemists </li>
+                <li>dragon quest xi </li>
                 <li>cadence of hyrule</li>
-                <li>super mario 3d world</li>
+                <li>democracy 4</li>
       
             </ul>
         </div>
