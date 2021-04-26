@@ -35,6 +35,7 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
+                <li>nier replicant </li>
                 <li>dragon quest xi </li>
                 <li>cadence of hyrule</li>
                 <li>democracy 4</li>
