@@ -31,7 +31,7 @@ export default () =>
             <h2>goals</h2>
             <ul>
                 <li>sailor dungeon (game: c++ + unreal 4 + mlpack + jupyter)</li>
-                <li>jlpt n1</li>
+               
             </ul>
             <h2>now playing</h2>
             <ul>
