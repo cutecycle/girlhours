@@ -30,15 +30,14 @@ export default () =>
             <p><a href="https://github.com/cutecycle">cutecycle</a></p>
             <h2>goals</h2>
             <ul>
-                <li>sailor dungeon (game: c++ + unreal 4 + mlpack + jupyter)</li>
+                <li>SPIA-1 (game: c++ + unreal 4 + mlpack + jupyter)</li>
                
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>nier replicant </li>
-                <li>dragon quest xi </li>
-                <li>cadence of hyrule</li>
-                <li>democracy 4</li>
+                <li>crypt of the necrodancer</li>
+                <li>atelier: mysterious dx</li>
+
       
             </ul>
         </div>
