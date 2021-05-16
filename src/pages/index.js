@@ -30,7 +30,7 @@ export default () =>
             <p><a href="https://github.com/cutecycle">cutecycle</a></p>
             <h2>goals</h2>
             <ul>
-                <li>SPIA-1 (game: c++ + unreal 4 + mlpack + jupyter)</li>
+                <li>SPIA-2bb88fc660c74370f7aaf1328f1b7e07fc83b9ca5c3f00361f6cfaa2dd1b67db (game: c++ + unreal 4 + mlpack + jupyter)</li>
                
             </ul>
             <h2>now playing</h2>
