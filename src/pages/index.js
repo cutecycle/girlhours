@@ -37,7 +37,7 @@ export default () =>
             <ul>
                 <li>crypt of the necrodancer</li>
                 <li>atelier: mysterious dx</li>
-<li>guilty gear xrd</li>
+<li>miitopia</li>
 <li>tales of Symphonia</li>
       
             </ul>
