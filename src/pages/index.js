@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>crypt of the necrodancer</li>
-                <li>atelier: mysterious dx</li>
-<li>miitopia</li>
-<li>tales of Symphonia</li>
+                <li>saga frontier </li>
+                <li>game builder garage</li>
+<li>guilty gear strive</li>
+<li></li>
       
             </ul>
         </div>
