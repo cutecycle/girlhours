@@ -38,7 +38,7 @@ export default () =>
                 <li>saga frontier </li>
                 <li>game builder garage</li>
 <li>guilty gear strive</li>
-<li></li>
+<li>god wars</li>
       
             </ul>
         </div>
