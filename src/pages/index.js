@@ -36,9 +36,9 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>saga frontier </li>
-                <li>game builder garage</li>
-<li>guilty gear strive</li>
-<li>god wars</li>
+                <li>disgaea 6</li>
+<li>tony hawk pro skater 1+2</li>
+<li>final fantasy 6</li>
       
             </ul>
         </div>
