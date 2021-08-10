@@ -35,9 +35,9 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>saga frontier </li>
-                <li>disgaea 6</li>
-<li>tony hawk pro skater 1+2</li>
+                <li>sonic mania </li>
+                <li>atelier ryza 2</li>
+<li>grandia hd</li>
 <li>final fantasy 6</li>
       
             </ul>
