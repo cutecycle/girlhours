@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>witch spring 3</li>
-                <li>tales of arise</li>
-<li>superhot: mind control delete</li>
-<li>scarlet nexus</li>
+                <li>undernauts: labyrinth of yomi</li>
+                <li>dragon quest xi</li>
+<li>metal unit</li>
+<li>blue reflection</li>
       
             </ul>
         </div>
