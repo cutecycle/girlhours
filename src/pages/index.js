@@ -37,8 +37,8 @@ export default () =>
             <ul>
                 <li>undernauts: labyrinth of yomi</li>
                 <li>dragon quest xi</li>
-<li>metal unit</li>
-<li>blue reflection</li>
+<li>shin megami tensei 5</li>
+<li>blue reflection 2</li>
       
             </ul>
         </div>
