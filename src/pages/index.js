@@ -28,7 +28,7 @@ export default () =>
             <p>creator</p>
             <p><a href="https://twitter.com/_cutecycle">@_cutecycle</a></p>
             <p><a href="https://github.com/cutecycle">cutecycle</a></p>
-            <h2>goals</h2>
+            <h2>wip</h2>
             <ul>
                 <li>SPIA-2bb88fc660c74370f7aaf1328f1b7e07fc83b9ca5c3f00361f6cfaa2dd1b67db (game: c++ + unreal 4 + mlpack + jupyter)</li>
                
@@ -36,9 +36,9 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>undernauts: labyrinth of yomi</li>
-                <li>dragon quest xi</li>
-<li>shin megami tensei 5</li>
-<li>blue reflection 2</li>
+                <li>scarlet nexus</li>
+<li>chocobo's dungeon</li>
+<li>final fantasy tactics</li>
       
             </ul>
         </div>
