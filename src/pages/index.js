@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>undernauts: labyrinth of yomi</li>
-                <li>scarlet nexus</li>
-<li>chocobo's dungeon</li>
-<li>final fantasy tactics</li>
+                <li>the messenger</li>
+                <li>final fantasy x</li>
+<li>final fantasy v</li>
+<li>crypt of the necrodancer</li>
       
             </ul>
         </div>
