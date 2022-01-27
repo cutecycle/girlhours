@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>the messenger</li>
+                <li>tales of arise</li>
                 <li>final fantasy x</li>
-<li>final fantasy v</li>
-<li>crypt of the necrodancer</li>
+<li>mary skelter</li>
+<li>reverie knights tactics</li>
       
             </ul>
         </div>
