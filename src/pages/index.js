@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>tales of arise</li>
-                <li>final fantasy x</li>
-<li>mary skelter</li>
-<li>reverie knights tactics</li>
+                <li>elden ring</li>
+                <li>rise of the third power</li>
+<li>soul nomad and the world eaters</li>
+<li>ys: the ark of napishtim</li>
       
             </ul>
         </div>
