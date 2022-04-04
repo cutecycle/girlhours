@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>atelier sophie 2</li>
-                <li>rise of the third power</li>
-<li>soul nomad and the world eaters</li>
-<li>ys: the ark of napishtim</li>
+                <li>disgaea 5</li>
+                <li>shadows of adam</li>
+<li>elden ring</li>
+<li>kirby</li>
       
             </ul>
         </div>
