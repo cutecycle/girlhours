@@ -35,8 +35,8 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>Odin sphere</li>
-                <li>cosmic star heroine</li>
+                <li>dragon quest 11</li>
+                <li>atelier shallie</li>
 <li>yggdra union</li>
 <li>mystic quest</li>
       
