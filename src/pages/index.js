@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>dragon quest 11</li>
-                <li>atelier shallie</li>
-<li>yggdra union</li>
-<li>mystic quest</li>
+                <li>cotton fantasy</li>
+                <li>labyrinth of refrain</li>
+<li>ketsui deathtiny</li>
+<li>lost odyssey</li>
       
             </ul>
         </div>
