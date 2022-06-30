@@ -36,7 +36,7 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>cotton fantasy</li>
-                <li>labyrinth of refrain</li>
+                <li>disgaea 6</li>
 <li>ketsui deathtiny</li>
 <li>lost odyssey</li>
       
