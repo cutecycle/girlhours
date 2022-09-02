@@ -35,10 +35,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>cotton fantasy</li>
-                <li>disgaea 6</li>
-<li>ketsui deathtiny</li>
-<li>lost odyssey</li>
+                <li>rhapsody + la pucelle</li>
+                <li>soul hackers 2</li>
+<li>dusk diver 2</li>
+<li>zwei</li>
       
             </ul>
         </div>
