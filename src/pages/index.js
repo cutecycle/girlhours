@@ -30,15 +30,15 @@ export default () =>
             <p><a href="https://github.com/cutecycle">cutecycle</a></p>
             <h2>wip</h2>
             <ul>
+                <li>bay 89</li>
                 <li>SPIA-2bb88fc660c74370f7aaf1328f1b7e07fc83b9ca5c3f00361f6cfaa2dd1b67db (game: c++ + unreal 4 + mlpack + jupyter)</li>
                
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>rhapsody + la pucelle</li>
-                <li>soul hackers 2</li>
-<li>dusk diver 2</li>
-<li>zwei</li>
+                <li>sonic frontiers</li>
+                <li>eternal sonata</li>
+<li>dragon quest 3</li>
       
             </ul>
         </div>
