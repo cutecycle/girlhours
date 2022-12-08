@@ -36,9 +36,9 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>sonic frontiers</li>
-                <li>eternal sonata</li>
-<li>dragon quest 3</li>
+                <li>tales of eternia</li>
+                <li>chained echoes</li>
+<li>need for speed unbound</li>
       
             </ul>
         </div>
