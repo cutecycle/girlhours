@@ -38,7 +38,8 @@ export default () =>
             <ul>
                 <li>tales of eternia</li>
                 <li>chained echoes</li>
-<li>need for speed unbound</li>
+                <li>transiruby</li>
+                <li>i was a teenage exocolonist</li>
       
             </ul>
         </div>
