@@ -30,8 +30,8 @@ export default () =>
             <p><a href="https://github.com/cutecycle">cutecycle</a></p>
             <h2>wip</h2>
             <ul>
-                <li>bay 89</li>
-                <li>SPIA-2bb88fc660c74370f7aaf1328f1b7e07fc83b9ca5c3f00361f6cfaa2dd1b67db (game: c++ + unreal 4 + mlpack + jupyter)</li>
+                <li>SPIA-baee898713c2b5731241155befa3b0319cbcd09b53dfb6632e3aa9afd51c50f2</li>
+                <li>SPIA-2bb88fc660c74370f7aaf1328f1b7e07fc83b9ca5c3f00361f6cfaa2dd1b67db</li>
                
             </ul>
             <h2>now playing</h2>
