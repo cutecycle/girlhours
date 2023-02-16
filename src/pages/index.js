@@ -36,10 +36,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>tales of eternia</li>
-                <li>chained echoes</li>
-                <li>transiruby</li>
-                <li>i was a teenage exocolonist</li>
+                <li>false skies</li>
+                <li>labyrinth of galleria</li>
+                <li>shin megami tensei v</li>
+                <li>sonic frontiers</li>
       
             </ul>
         </div>
