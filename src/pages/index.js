@@ -37,9 +37,9 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>false skies</li>
-                <li>labyrinth of galleria</li>
-                <li>shin megami tensei v</li>
-                <li>sonic frontiers</li>
+                <li>tales of phantasia</li>
+                <li>ff pixel</li>
+                <li>chrono cross</li>
       
             </ul>
         </div>
