@@ -26,7 +26,7 @@ export default () =>
 
         <div style={grandstyle}>
             <p>creator</p>
-            <p><a href="https://twitter.com/_cutecycle">@_cutecycle</a></p>
+            <p><a href="https://hachyderm.io/@cutecycle">@_cutecycle</a></p>
             <p><a href="https://github.com/cutecycle">cutecycle</a></p>
             <h2>wip</h2>
             <ul>
