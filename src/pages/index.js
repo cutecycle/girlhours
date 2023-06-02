@@ -36,10 +36,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>false skies</li>
-                <li>tales of phantasia</li>
-                <li>ff pixel</li>
-                <li>chrono cross</li>
+                <li>street fighter 6</li>
+                <li>final fantasy 3</li>
+                <li>valkyrie profile</li>
+                <li>etrian odyssey collection</li>
       
             </ul>
         </div>
