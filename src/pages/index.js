@@ -36,9 +36,9 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>story of seasons: a wonderful lif</li>
+                <li>story of seasons: pioneers of olive town</li>
                 <li>noob: the factionless</li>
-                <li>valithirian arc: hero school story 2</li>
+                <li>atelier marie remake</li>
                 <li>etrian odyssey collection</li>
       
             </ul>
