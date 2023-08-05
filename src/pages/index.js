@@ -16,6 +16,7 @@ export default () =>
         <head style={grandstyle}>
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400&display=swap" rel="stylesheet" />
+            
 
         </head>
         <h1 style={grandstyle}>
@@ -26,7 +27,7 @@ export default () =>
 
         <div style={grandstyle}>
             <p>creator</p>
-            <p><a href="https://hachyderm.io/@cutecycle">@_cutecycle</a></p>
+            <p><a href="https://hachyderm.io/@cutecycle" rel="me">@cutecycle</a></p>
             <p><a href="https://github.com/cutecycle">cutecycle</a></p>
             <h2>wip</h2>
             <ul>
