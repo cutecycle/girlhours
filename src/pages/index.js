@@ -39,8 +39,8 @@ export default () =>
             <ul>
                 <li>story of seasons: pioneers of olive town</li>
                 <li>noob: the factionless</li>
-                <li>atelier marie remake</li>
-                <li>etrian odyssey collection</li>
+                <li>tales of zestiria</li>
+                <li>baldur's gate 3</li>
       
             </ul>
         </div>
