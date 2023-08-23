@@ -37,9 +37,9 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>story of seasons: pioneers of olive town</li>
+                <li>rhapsody: a musical adventure</li>
                 <li>noob: the factionless</li>
-                <li>tales of zestiria</li>
+                <li>bomb rush cyberfunk</li>
                 <li>baldur's gate 3</li>
       
             </ul>
