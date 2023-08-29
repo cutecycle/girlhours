@@ -38,7 +38,7 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>rhapsody: a musical adventure</li>
-                <li>noob: the factionless</li>
+                <li>sea of stars</li>
                 <li>bomb rush cyberfunk</li>
                 <li>baldur's gate 3</li>
       
