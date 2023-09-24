@@ -37,10 +37,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>rhapsody: a musical adventure</li>
-                <li>sea of stars</li>
-                <li>bomb rush cyberfunk</li>
-                <li>baldur's gate 3</li>
+                <li>rhapsody 2: ballad of the little princess</li>
+                <li>nayuta: boundless trails</li>
+                <li>you suck at parking</li>
+                <li>baten kaitos remastered</li>
       
             </ul>
         </div>
