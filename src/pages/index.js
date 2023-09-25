@@ -40,7 +40,7 @@ export default () =>
                 <li>rhapsody 2: ballad of the little princess</li>
                 <li>nayuta: boundless trails</li>
                 <li>you suck at parking</li>
-                <li>baten kaitos remastered</li>
+                <li>lunarlux</li>
       
             </ul>
         </div>
