@@ -39,7 +39,7 @@ export default () =>
             <ul>
                 <li>rhapsody 2: ballad of the little princess</li>
                 <li>nayuta: boundless trails</li>
-                <li>you suck at parking</li>
+                <li>disgaea 7</li>
                 <li>lunarlux</li>
       
             </ul>
