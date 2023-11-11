@@ -38,8 +38,8 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>rhapsody 2: ballad of the little princess</li>
-                <li>super mario wonder</li>
-                <li>disgaea 7</li>
+                <li>star ocean the second story R</li>
+                <li>baten kaitos remastered</li>
                 <li>lunarlux</li>
       
             </ul>
