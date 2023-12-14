@@ -39,7 +39,7 @@ export default () =>
             <ul>
                 <li>rhapsody 2: ballad of the little princess</li>
                 <li>in stars and time</li>
-                <li>star ocean 4</li>
+                <li>star ocean 3</li>
                 <li>lunarlux</li>
       
             </ul>
