@@ -38,9 +38,9 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>rhapsody 2: ballad of the little princess</li>
-                <li>in stars and time</li>
-                <li>star ocean 3</li>
-                <li>lunarlux</li>
+                <li>this way madness lies</li>
+                <li>final fantasy 7 rebirth</li>
+                <li>like a dragon</li>
       
             </ul>
         </div>
