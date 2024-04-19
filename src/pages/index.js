@@ -39,7 +39,7 @@ export default () =>
             <ul>
                 <li>rhapsody 2: ballad of the little princess</li>
                 <li>this way madness lies</li>
-                <li>final fantasy 7 rebirth</li>
+                <li>eiyuuden chronicles: hundred heroes</li>
                 <li>like a dragon</li>
       
             </ul>
