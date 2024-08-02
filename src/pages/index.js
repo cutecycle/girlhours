@@ -37,10 +37,10 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>fire emblem engage</li>
-                <li>sonic 3 and knuckles</li>
+                <li>kitsune tails</li>
+                <li>saga emerald beyond</li>
                 <li>phantom brave</li>
-                <li>absinthia</li>
+                <li>ghost sync</li>
       
             </ul>
         </div>
