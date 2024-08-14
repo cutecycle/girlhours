@@ -38,9 +38,9 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>kitsune tails</li>
-                <li>saga emerald beyond</li>
+                <li>the final fantasy legend</li>
                 <li>phantom brave</li>
-                <li>ghost sync</li>
+                <li>dragon lapis</li>
       
             </ul>
         </div>
