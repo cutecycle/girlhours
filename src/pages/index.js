@@ -38,8 +38,8 @@ export default () =>
             <h2>now playing</h2>
             <ul>
                 <li>kitsune tails</li>
-                <li>the final fantasy legend</li>
-                <li>phantom brave</li>
+                <li>pokemon crystal kaizo</li>
+                <li>astro bot</li>
                 <li>dragon lapis</li>
       
             </ul>
