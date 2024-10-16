@@ -32,7 +32,7 @@ export default () =>
             <h2>wip</h2>
             <ul>
                 
-                <li>SPIA-23f1a02835c14a9e6e0c6053ff3c73392ed92f46de195e634e9020236ca828e4 </li>
+                <li>SPIA-23f1a02835c14a9e6e0c6053ff3c73392ed92f46de195e634e9020236ca828e4  </li>
             <li>SPIA-baee898713c2b5731241155befa3b0319cbcd09b53dfb6632e3aa9afd51c50f2</li>
                
             </ul>
@@ -40,8 +40,9 @@ export default () =>
             <ul>
                 <li>kitsune tails</li>
                 <li>pokemon crystal kaizo</li>
-                <li>zelda: echoes of wisdom</li>
-                <li>dragon lapis</li>
+                <li>witchspringR</li>
+                <li>tactics ogre reborn</li>
+    <li>disgaea 2</li>
       
             </ul>
         </div>
