@@ -38,11 +38,11 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>kitsune tails</li>
+                <li>romancing saga 2 remake</li>
                 <li>pokemon crystal kaizo</li>
                 <li>witchspringR</li>
                 <li>tactics ogre reborn</li>
-    <li>disgaea 2</li>
+    <li>potionomics</li>
       
             </ul>
         </div>
