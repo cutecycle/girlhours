@@ -38,11 +38,11 @@ export default () =>
             </ul>
             <h2>now playing</h2>
             <ul>
-                <li>mystia's izakaya</li>
-                <li>sonic x shadow generations</li>
+                <li>disgaea 7</li>
+                <li>touhou lotus labyrinth R</li>
                 <li>yggdra union</li>
-                <li>tactics ogre reborn</li>
-    <li>fantasian</li>
+                <li>phantom brave 2</li>
+    <li>bright blades</li>
       
             </ul>
         </div>
