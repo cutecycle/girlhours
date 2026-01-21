@@ -4,7 +4,7 @@ This site now has a comprehensive redirect system that works across different ho
 
 ## How to Add Redirects
 
-There are two files you can use to manage redirects:
+There are two different methods you can use to manage redirects, each with its own file:
 
 ### 1. For All Hosting Platforms (Recommended)
 

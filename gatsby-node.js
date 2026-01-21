@@ -17,7 +17,7 @@ exports.createPages = ({ actions }) => {
     createRedirect({
       fromPath: redirect.fromPath,
       toPath: redirect.toPath,
-      isPermanent: redirect.isPermanent !== false, // Default to permanent (301)
+      isPermanent: redirect.isPermanent === true, // Explicit boolean check for permanent (301)
       redirectInBrowser: true, // Enable client-side redirects
     })
   })
