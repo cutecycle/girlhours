@@ -91,6 +91,6 @@ After adding redirects:
 
 ## More Information
 
-- [Gatsby Redirects Documentation](https://www.gatsbyjs.org/docs/actions/#createRedirect)
+- [Gatsby Redirects Documentation](https://www.gatsbyjs.com/docs/reference/config-files/actions/#createRedirect)
 - [Netlify Redirects](https://docs.netlify.com/routing/redirects/)
 - [Vercel Redirects](https://vercel.com/docs/edge-network/redirects)

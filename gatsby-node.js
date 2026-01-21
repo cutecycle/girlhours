@@ -4,7 +4,7 @@
  * This file implements programmatic redirects using Gatsby's createRedirect API.
  * Redirects are loaded from the central redirects.js configuration file.
  * 
- * See: https://www.gatsbyjs.org/docs/actions/#createRedirect
+ * See: https://www.gatsbyjs.com/docs/reference/config-files/actions/#createRedirect
  */
 
 const redirects = require('./redirects')
