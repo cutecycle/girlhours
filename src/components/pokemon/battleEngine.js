@@ -19,8 +19,8 @@ export function calculateDamage(attacker, defender, move) {
 
   // Simplified damage formula inspired by classic RPGs
   const baseDamage = Math.floor(
-    ((2 * 50) / 5 + 2) * move.power * (attacker.attack / defender.defense)
-  ) / 50 + 2
+    (((2 * 50) / 5 + 2) * move.power * (attacker.attack / defender.defense)) / 50 + 2
+  )
 
   // Random variance (85-100%)
   const randomFactor = (Math.random() * 15 + 85) / 100

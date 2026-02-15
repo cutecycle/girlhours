@@ -10,7 +10,7 @@ const typeColors = {
 
 const styles = {
   container: {
-    fontFamily: "'Cabin', monospace",
+    fontFamily: "'Cabin', sans-serif",
     maxWidth: "640px",
     margin: "0 auto",
     padding: "1em",
