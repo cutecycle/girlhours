@@ -1,0 +1,20 @@
+# Netlify and Vercel Redirects Configuration
+# 
+# This file provides hosting-level redirects for platforms like Netlify and Vercel.
+# These redirects are processed before the application loads, making them faster.
+#
+# Format: from_path  to_path  [status_code]
+#
+# Status codes:
+#   301 - Permanent redirect (default)
+#   302 - Temporary redirect
+#
+# Examples (uncomment and modify as needed):
+# /old-page  /new-page  301
+# /blog      /posts     301
+# /temp      /new-temp  302
+
+# Add your redirects below:
+
+# Example redirect
+/home  /  301
